@@ -1,29 +1,37 @@
-# git_vue_todolist_components
+# Vue-ToDoList
+![Todo](https://i.ibb.co/FmrC3Hq/todo.png)
+
+
+**Vue-ToDoList** is simple TodoList made with Vuejs
+
+## Features
+
+| Feature  |  Coded       |
+|----------|:-------------|
+| Add Todos | &#10004; |
+| Delete Todos | &#10004; |
+| End Todos | &#10004; |
+| Watch Todos not done | &#10004; |
+| Watch Todos ended | &#10004; |
+| Delete Todos ended | &#10004; |
+| Store Todos in DB or Local Storage | &#10060; |
+
+
 
 ## Project setup
-```
+```bash
+# Install depencencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# Compiles and hot-reloads for development
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+# Compiles and minifies for production
 npm run build
-```
 
-### Run your tests
-```
+# Run your tests
 npm run test
-```
 
-### Lints and fixes files
-```
+# Lints and fixes files
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
