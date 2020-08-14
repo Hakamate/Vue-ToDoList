@@ -2,7 +2,7 @@
 ![Todo](https://i.ibb.co/FmrC3Hq/todo.png)
 
 
-**Vue-ToDoList** is simple TodoList made with Vuejs
+**Vue-ToDoList** is a simple TodoList made with Vuejs
 
 ## Features
 
